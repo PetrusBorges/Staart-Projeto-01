@@ -8,7 +8,8 @@ acessibilidade.
 Este projeto foi desenvolvido em aula introdutória para desenvolvimento Front End ministrado por Reinaldo Ferraz Instrutor Staart.
 Nele foi possivel ter conhecimentos fundamentais de HTML, CSS.
 
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/105453766/168159535-a438ca6d-405c-4eb3-ac7b-852566c768b7.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/105453766/168394880-6fb92973-c09e-4a62-9ca3-1fd82e386051.gif)
+
 
 ## 🛠️ Construído com
 
